@@ -1,0 +1,5 @@
+{
+  "name": "현장 용어 번역기",
+  "description": "어려운 조선/엔진 현장 용어를 AI가 쉽게 풀어서 설명해주는 앱",
+  "requestFramePermissions": []
+}
